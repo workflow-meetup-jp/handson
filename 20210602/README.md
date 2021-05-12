@@ -1,3 +1,3 @@
-# 20210602のハンズオンの内容
+# 20210602 Handson
 
-Jupyterlabのコラボ機能を使って、Snakemakeをbashカーネルで動かす
+Run Snakemake on Jupyter bash kernel , using Jupyterlab's collaboration feature.
